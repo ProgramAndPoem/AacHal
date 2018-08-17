@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Include>
+
+  <!--
+    Set your unique GUID for your setup.exe.
+  -->
+  <?define MyUpgradeCode = 44444444-4444-4444-4444-444444444444 ?>
+
+</Include>
+
+
